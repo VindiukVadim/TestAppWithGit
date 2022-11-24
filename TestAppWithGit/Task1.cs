@@ -8,6 +8,9 @@ namespace TestAppWithGit
 {
     public class Task1
     {
+        public Task1()
+            { 
+            }
         public int SumTwoNumber(int a, int b)
         {
             return a + b;
