@@ -13,7 +13,7 @@ namespace TestAppWithGit
             }
         public int SumTwoNumber(int a, int b)
         {
-            return a + b;
+            return a * b;
         }
 
         public int MinusOfTwoNumbers(int a, int b)
