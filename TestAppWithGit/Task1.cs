@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace TestAppWithGit
 {
-    internal class Task1
+    public class Task1
     {
+        public int SumTwoNumber(int a, int b)
+        {
+            return a + b;
+        }
     }
 }
