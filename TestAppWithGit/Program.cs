@@ -7,5 +7,6 @@ int b = 2;
 Task1 calc = new Task1();
 
 Console.WriteLine(calc.SumTwoNumber(a, b));
+Console.WriteLine(calc.MinusOfTwoNumbers(a, b));
 Console.ReadLine();
 
